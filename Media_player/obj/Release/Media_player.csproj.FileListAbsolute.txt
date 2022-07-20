@@ -1,0 +1,16 @@
+K:\workspace 2017\Media_player\Media_player\bin\Release\Media_player.exe.config
+K:\workspace 2017\Media_player\Media_player\bin\Release\Media_player.exe
+K:\workspace 2017\Media_player\Media_player\bin\Release\Media_player.pdb
+K:\workspace 2017\Media_player\Media_player\bin\Release\Interop.WMPLib.dll
+K:\workspace 2017\Media_player\Media_player\bin\Release\AxInterop.WMPLib.dll
+K:\workspace 2017\Media_player\Media_player\obj\Release\Media_player.csproj.AssemblyReference.cache
+K:\workspace 2017\Media_player\Media_player\obj\Release\Media_player.csproj.SuggestedBindingRedirects.cache
+K:\workspace 2017\Media_player\Media_player\obj\Release\Interop.WMPLib.dll
+K:\workspace 2017\Media_player\Media_player\obj\Release\AxInterop.WMPLib.dll
+K:\workspace 2017\Media_player\Media_player\obj\Release\Media_player.csproj.ResolveComReference.cache
+K:\workspace 2017\Media_player\Media_player\obj\Release\Media_player.Form1.resources
+K:\workspace 2017\Media_player\Media_player\obj\Release\Media_player.Properties.Resources.resources
+K:\workspace 2017\Media_player\Media_player\obj\Release\Media_player.csproj.GenerateResource.cache
+K:\workspace 2017\Media_player\Media_player\obj\Release\Media_player.csproj.CoreCompileInputs.cache
+K:\workspace 2017\Media_player\Media_player\obj\Release\Media_player.exe
+K:\workspace 2017\Media_player\Media_player\obj\Release\Media_player.pdb
